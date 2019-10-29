@@ -1,3 +1,11 @@
-body {
-font-family:'Microsoft JhengHei', '微軟正黑體', 'Microsoft YaHei', sans-serif;
+body,.book-summary{
+
+font-family: "微軟正黑體", "Microsoft JhengHei" !important;
+
+font-size:130% !important;
+
 }
+
+.book-body{
+
+font-size:130%;}
